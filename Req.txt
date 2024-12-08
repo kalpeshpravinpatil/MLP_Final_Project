@@ -1,0 +1,24 @@
+# Basic libraries
+numpy==1.23.4
+pandas==2.0.3
+scikit-learn==1.3.0
+
+# Machine learning libraries
+tensorflow==2.13.0
+torch==2.0.1
+transformers==4.33.0
+datasets==2.16.1
+
+# For Jupyter notebooks
+jupyterlab==3.6.0
+notebook==7.7.1
+
+# For managing and logging experiments
+wandb==0.15.0
+
+# Additional utilities
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# To ensure compatibility
+protobuf==4.23.3
